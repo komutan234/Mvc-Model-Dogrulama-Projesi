@@ -1,0 +1,30 @@
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\appsettings.json
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\Model Dogrulama.staticwebassets.runtime.json
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\Model Dogrulama.exe
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\Model Dogrulama.deps.json
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\Model Dogrulama.runtimeconfig.json
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\Model Dogrulama.dll
+C:\Users\Turgut\Desktop\Model Dogrulama\bin\Debug\net8.0\Model Dogrulama.pdb
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.AssemblyInfoInputs.cache
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.AssemblyInfo.cs
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.csproj.CoreCompileInputs.cache
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.RazorAssemblyInfo.cache
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.RazorAssemblyInfo.cs
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\staticwebassets\msbuild.Model Dogrulama.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\staticwebassets\msbuild.build.Model Dogrulama.props
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Model Dogrulama.props
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Model Dogrulama.props
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\scopedcss\bundle\Model Dogrulama.styles.css
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\scopedcss\projectbundle\Model Dogrulama.bundle.scp.css
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.dll
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\refint\Model Dogrulama.dll
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.pdb
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\Model Dogrulama.genruntimeconfig.cache
+C:\Users\Turgut\Desktop\Model Dogrulama\obj\Debug\net8.0\ref\Model Dogrulama.dll
